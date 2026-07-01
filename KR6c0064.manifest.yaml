@@ -1,0 +1,173 @@
+canonical_identifier: bkk:krp/KR6c0064/v1
+canonical_location: https://kanripo.org/bkk/KR6c0064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經統論
+  identifiers:
+    alt_id:
+    - X25n0476
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0476.xml
+    old_id: X25n0476
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0064_000.yaml, hash: 'sha256:db7ef77fc7a1840d938d1cdae9fb9af718c6a8b60b5c1a9bb34fa858e2b31731'}
+  - {seq: 1, filename: KR6c0064_001.yaml, hash: 'sha256:2b461fdbb54e1abb8632075ba0e1fa7b3de29cbb55b0c8926ef4f6d896366024'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0064_000.markers.yaml, hash: 'sha256:bb322bfa430da2fb4ba62751736c37b4fe3913acfd345315afd044a6b2095ed1'}
+  - {seq: 1, role: markers, filename: assets/KR6c0064_001.markers.yaml, hash: 'sha256:fb35f9e6a84922b68b194f11a9ea55c22ca4412e9fc5b2a2385007f69f1a0b9d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0064_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 476-A 林子自書金剛統論卷端
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18601
+  label: 金剛經統論并小引
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 小引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-2
+    span:
+    - body
+    - 218
+    - 218
+  label: 如來所說我義卷之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-3
+    span:
+    - body
+    - 3980
+    - 3980
+  label: 如來所說我義卷之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-4
+    span:
+    - body
+    - 8258
+    - 8258
+  label: 如來所說我義卷之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-5
+    span:
+    - body
+    - 12279
+    - 12279
+  label: 如來所說我義卷之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-6
+    span:
+    - body
+    - 16452
+    - 16452
+  label: No. 476-B 䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-7
+    span:
+    - body
+    - 16705
+    - 16705
+  label: 附答儒氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-8
+    span:
+    - body
+    - 16709
+    - 16709
+  label: 不住相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-9
+    span:
+    - body
+    - 17314
+    - 17314
+  label: 大身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-10
+    span:
+    - body
+    - 17637
+    - 17637
+  label: 無說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-11
+    span:
+    - body
+    - 17791
+    - 17791
+  label: 佛果羅漢果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0064_X_001-mulu-12
+    span:
+    - body
+    - 17957
+    - 17957
+  label: 如來
+  type: mulu
+  level: 1
+hash: sha256:79df794717efcf4d6ad50ad54161979546797a723e787c5786162ce72c1554ce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
