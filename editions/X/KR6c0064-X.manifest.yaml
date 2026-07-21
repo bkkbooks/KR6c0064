@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0064_000-X.yaml, hash: 'sha256:bb6a377c4b007d5c7a7ce9c93c33bd435c185a326204ae2be6352f43fac0d3f8'}
+  - {seq: 0, filename: KR6c0064_000-X.yaml, hash: 'sha256:084a51bdfc5d48fac98939620a98ecf1cabdeac3191ff9d59e175e90d819eb55'}
   - {seq: 1, filename: KR6c0064_001-X.yaml, hash: 'sha256:8f184f0a0f58be4cbe1c94883ac32c0689842b445fffd77de51003ab353e2aba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0064_000-X.markers.yaml, hash: 'sha256:c2374f640eab035b94b06fcb0936a4e2efb8bf3a166d90810e56cfd5cd265046'}
+  - {seq: 0, role: markers, filename: assets/KR6c0064_000-X.markers.yaml, hash: 'sha256:9b40d397261762266242b8156b5b4ee33a2eb7736a5fb8f52d8bc334b5b1f8b3'}
   - {seq: 1, role: markers, filename: assets/KR6c0064_001-X.markers.yaml, hash: 'sha256:4b13d8cbd36333d325b8fd4b25f1166bd9fbe13a49738fdfd5f8ba394fb2d634'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0064_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 476-A 林子自書金剛統論卷端
@@ -165,4 +165,4 @@ table_of_contents:
   label: 如來
   type: mulu
   level: 1
-hash: sha256:28414ab779392cf6daad043e2ba038b2b09df8cc80b73d3ff600845601ffdd9e
+hash: sha256:8ec61d481f8034369cf6c27912486076ffb535bbce072002c0510b7c24862e7d

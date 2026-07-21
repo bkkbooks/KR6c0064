@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0064_000.yaml, hash: 'sha256:b236b13d44625697796109df95056522ae7554ce8a616e75b2ba08963a92c685'}
+  - {seq: 0, filename: KR6c0064_000.yaml, hash: 'sha256:bab30edb0cdf4d6bcd695a4d3890195abc4d681dc4c51c82dace933a07e05c53'}
   - {seq: 1, filename: KR6c0064_001.yaml, hash: 'sha256:9d4bef94af9e574f3fe67dd0144d85fb12e4ed0aa4d7b17a3c809f16dd96304d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0064_000.markers.yaml, hash: 'sha256:a7da5789fe56be9421fafbd53f2464ba386b6fcaa4e551d0cc26517f0577fed6'}
+  - {seq: 0, role: markers, filename: assets/KR6c0064_000.markers.yaml, hash: 'sha256:27e0171b53021977925d3a212fd870ad553d19e6c158e232d33b57686da2c9f9'}
   - {seq: 1, role: markers, filename: assets/KR6c0064_001.markers.yaml, hash: 'sha256:c28d7885839bfef7f4ea7bd001d0de187635083afa7785b090eda1b8f32c44bb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0064_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 476-A 林子自書金剛統論卷端
@@ -167,7 +167,7 @@ table_of_contents:
   label: 如來
   type: mulu
   level: 1
-hash: sha256:4dc68a3ea88ec5c8fd303a5bfa99563f8ac3d84f3a18409ca2595265d314494a
+hash: sha256:2ecbc5d9a7800f2a338440bd5435f76082537eeb2995ca9abbe111f3921bfd33
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
